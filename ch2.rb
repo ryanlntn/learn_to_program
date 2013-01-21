@@ -1,6 +1,8 @@
 #
 # Exercises from Ch. 2 of Learn to Program
 #
+# Note that I used some concepts from the following chapters which do not have exercises.
+#
 
 # Hours in a year:
 
