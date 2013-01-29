@@ -32,7 +32,7 @@ def deaf_grandma
   end
 end
 
-def leap_years(starting, ending)
+def leap_years starting, ending
   while starting < ending
     if starting % 4 == 0 && starting % 100 != 0 || starting % 400 == 0
       puts starting
