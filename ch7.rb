@@ -1,3 +1,7 @@
+#
+# Exercises from Ch. 7 of Learn to Program
+#
+
 def ninety9bottles
   n = 99
   while n > 0
@@ -36,5 +40,3 @@ def leap_years(starting, ending)
     starting += 1
   end
 end
-
-leap_years(0,2012)
