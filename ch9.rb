@@ -38,5 +38,3 @@ def new_roman_nums n
   end
   num
 end
-
-puts new_roman_nums 4999
